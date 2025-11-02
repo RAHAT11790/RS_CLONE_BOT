@@ -7,3 +7,4 @@ gunicorn==21.2.0
 pyrogram==2.0.106
 tgcrypto
 asyncio
+gitpython==3.1.40
